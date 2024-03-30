@@ -1,6 +1,3 @@
-// Copyright (c) 2019 Razeware LLC
-// See Copyright Notice page for details about the license.
-
 import Foundation
 
 class Distribution {
@@ -55,7 +52,4 @@ class DrawableBase: NSObject {
 	}
 }
 
-
-
-
-
+//: [Next](@next)
