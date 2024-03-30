@@ -3,5 +3,7 @@
     <pages>
         <page name='class-dispatch'/>
         <page name='protocol-dispatch'/>
+        <page name='Challenge-OOP-VS-POP-Pre'/>
+        <page name='Challenge-OOP-VS-POP'/>
     </pages>
 </playground>
